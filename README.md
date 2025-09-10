@@ -1,8 +1,8 @@
 
-# Hi, I'm Maga Lutfullaev
-Software Engineer with 3+ years experience.
-Frontend Dev at Workly.io - The best automation time-tracking system.  
-Head of Frontend at OshLab.uz — building empire of global hospitality automation ecosystem.  
+# Hi, I'm Maga Lutfullaev <br/>
+Software Engineer with 3+ years experience. <br/>
+Co-Founder @ OshLab.uz — building empire of global hospitality automation ecosystem.  <br/>
+Frontend Dev @ Workly.io - The best automation time-tracking system.  <br/>
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://mluev.uz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlutfullaev/)
