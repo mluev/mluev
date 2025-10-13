@@ -48,7 +48,7 @@ Frontend Dev @ [Workly](https://workly.io) - The best automation time-tracking s
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlutfullaev&show_icons=true&theme=transparent&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlutfullaev&layout=compact&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mluev&show_icons=true&theme=transparent&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mluev&layout=compact&theme=transparent)
 
 
