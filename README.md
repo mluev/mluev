@@ -1,6 +1,5 @@
 
 # Hi, I'm Maga Lutfullaev <br/>
-Software Engineer with 3+ years experience. <br/>
 Co-Founder & Senior SWE @ [Horyco](https://horyco.com) — building future OS for HoReCa.  <br/>
 Frontend Engineer @ [Clockster](https://clockster.com) - The #1 staff management system in Central Asia.  <br/>
 
