@@ -3,7 +3,7 @@
 Co-Founder & CTO @ [Horyco](https://horyco.com) — building future Ai-Native OS for HoReCa.  <br/>
 Mid-Frontend Engineer @ [Clockster](https://clockster.com) - The #1 staff management system in Central Asia.  <br/>
 
-[![ExTwitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=web&logoColor=white)](https://x.com/magaluev)
+[![ExTwitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=web&logoColor=white)](https://x.com/mxluev)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://mluev.uz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlutfullaev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlutfullaevv@gmail.com)
