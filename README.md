@@ -1,7 +1,5 @@
 
 # Hi, I'm Maga Lutfullaev <br/>
-Co-Founder & CTO @ [Horyco](https://horyco.com) — building future Ai-Native OS for HoReCa.  <br/>
-Mid-Frontend Engineer @ [Clockster](https://clockster.com) - The #1 staff management system in Central Asia.  <br/>
 
 [![ExTwitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=web&logoColor=white)](https://x.com/mxluev)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://mluev.uz)
