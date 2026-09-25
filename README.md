@@ -1,12 +1,5 @@
 
 # Hi, I'm Maga Lutfullaev <br/>
-
-[![ExTwitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=web&logoColor=white)](https://x.com/mxluev)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://mluev.uz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlutfullaev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlutfullaevv@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/magalutfullaev)
-
 ---
 
 ## Tech Stack
